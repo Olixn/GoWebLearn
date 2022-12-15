@@ -1,0 +1,6 @@
+{"level":"DEBUG","time":"2022-12-15T23:23:39.467+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-15T23:24:28.706+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-15T23:24:45.580+0800","caller":"logger/logger.go:71","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-15T23:24:45.799+0800","caller":"logger/logger.go:71","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-15T23:26:30.612+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-15T23:26:30.629+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
