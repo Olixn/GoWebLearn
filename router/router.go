@@ -1,4 +1,4 @@
-package routes
+package router
 
 import (
 	"net/http"
@@ -19,6 +19,6 @@ func Setup(mode string) *gin.Engine {
 	r.GET("/version", func(c *gin.Context) {
 		c.String(http.StatusOK, settings.Conf.Version)
 	})
-	
+
 	return r
 }
