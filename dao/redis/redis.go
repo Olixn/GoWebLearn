@@ -3,7 +3,7 @@ package redis
 import (
 	"fmt"
 
-	"github.com/Olixn/GoWebLearn/settings"
+	"github.com/Olixn/GoWebLearn/setting"
 
 	"github.com/go-redis/redis"
 )
@@ -12,7 +12,7 @@ import (
 var rdb *redis.Client
 
 // Init 初始化连接
-func Init(cfg *settings.RedisConfig) (err error) {
+func Init(cfg *setting.RedisConfig) (err error) {
 	rdb = redis.NewClient(&redis.Options{
 		Addr: fmt.Sprintf("%s:%d",
 			cfg.Host,

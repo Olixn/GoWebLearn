@@ -4,3 +4,266 @@
 {"level":"INFO","time":"2022-12-15T23:24:45.799+0800","caller":"logger/logger.go:71","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0}
 {"level":"INFO","time":"2022-12-15T23:26:30.612+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
 {"level":"INFO","time":"2022-12-15T23:26:30.629+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:11:08.205+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T10:11:41.504+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"invalid character '-' in numeric literal"}
+{"level":"INFO","time":"2022-12-16T10:11:41.505+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0006819}
+{"level":"ERROR","time":"2022-12-16T10:12:34.782+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"invalid character '-' in numeric literal"}
+{"level":"INFO","time":"2022-12-16T10:12:34.782+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005844}
+{"level":"ERROR","time":"2022-12-16T10:15:30.731+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"invalid character '-' in numeric literal"}
+{"level":"INFO","time":"2022-12-16T10:15:30.731+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0000247}
+{"level":"ERROR","time":"2022-12-16T10:18:03.569+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"invalid character 'u' looking for beginning of value"}
+{"level":"INFO","time":"2022-12-16T10:18:03.569+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005887}
+{"level":"ERROR","time":"2022-12-16T10:18:19.393+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"invalid character 'u' looking for beginning of value"}
+{"level":"INFO","time":"2022-12-16T10:18:19.393+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T10:19:24.272+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0007455}
+{"level":"INFO","time":"2022-12-16T10:20:20.502+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T10:20:44.756+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0007066}
+{"level":"INFO","time":"2022-12-16T10:20:47.516+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:20:47.525+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:20:50.833+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T10:20:53.730+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.000536}
+{"level":"INFO","time":"2022-12-16T10:20:54.885+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-16T10:21:16.799+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"json: cannot unmarshal number into Go struct field ParamSignUp.password of type string"}
+{"level":"INFO","time":"2022-12-16T10:21:16.799+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T10:22:59.792+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005468}
+{"level":"INFO","time":"2022-12-16T10:26:24.392+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:26:24.405+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:26:28.285+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T10:26:34.114+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005432}
+{"level":"INFO","time":"2022-12-16T10:26:39.141+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-16T10:26:44.555+0800","caller":"controller/user.go:29","msg":"SignUp with invalid param."}
+{"level":"INFO","time":"2022-12-16T10:26:44.555+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T10:26:48.795+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0008424}
+{"level":"INFO","time":"2022-12-16T10:28:48.048+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:28:48.063+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:29:40.437+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T10:29:45.336+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005386}
+{"level":"INFO","time":"2022-12-16T10:35:55.165+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:35:55.173+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:35:58.759+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T10:36:08.917+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005464}
+{"level":"INFO","time":"2022-12-16T10:36:27.221+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.001001}
+{"level":"INFO","time":"2022-12-16T10:36:32.769+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005296}
+{"level":"INFO","time":"2022-12-16T10:36:38.600+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:36:38.608+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:37:53.326+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T10:37:57.011+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:37:57.011+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005395}
+{"level":"ERROR","time":"2022-12-16T10:37:57.855+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:37:57.855+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T10:38:42.130+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T10:39:42.476+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:39:42.480+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:39:45.717+0800","caller":"GoWebLearn/main.go:41","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T10:39:53.226+0800","caller":"controller/user.go:21","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:39:53.226+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0010522}
+{"level":"INFO","time":"2022-12-16T10:56:16.148+0800","caller":"GoWebLearn/main.go:84","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:56:16.154+0800","caller":"GoWebLearn/main.go:93","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:56:19.848+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T10:56:23.948+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:56:23.948+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005375}
+{"level":"INFO","time":"2022-12-16T10:58:26.920+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T10:58:26.932+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T10:58:30.602+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T10:58:43.702+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:58:43.702+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-16T10:58:44.868+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:58:44.868+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0006174}
+{"level":"ERROR","time":"2022-12-16T10:58:45.538+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:58:45.538+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-16T10:58:46.150+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T10:58:46.150+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T11:07:05.694+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T11:07:08.468+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005502}
+{"level":"INFO","time":"2022-12-16T11:07:11.210+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T11:07:11.217+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T11:07:14.595+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T11:07:18.344+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-12-16T11:07:18.344+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005465}
+{"level":"INFO","time":"2022-12-16T11:10:36.437+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T11:10:36.446+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T11:10:39.947+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T11:10:47.889+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-12-16T11:10:47.889+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-16T11:10:49.139+0800","caller":"controller/user.go:23","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-12-16T11:10:49.140+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0010026}
+{"level":"INFO","time":"2022-12-16T11:12:47.775+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T11:12:47.780+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T14:29:25.532+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-12-16T14:30:07.288+0800","caller":"controller/user.go:22","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-12-16T14:30:07.288+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0008691}
+{"level":"INFO","time":"2022-12-16T14:31:26.203+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0265947}
+{"level":"INFO","time":"2022-12-16T14:31:44.879+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0023908}
+{"level":"INFO","time":"2022-12-16T14:32:45.969+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T14:32:45.976+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T14:32:49.080+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T14:32:54.829+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0029379}
+{"level":"INFO","time":"2022-12-16T14:34:13.811+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T14:34:13.813+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T14:34:16.156+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T14:34:22.439+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.1258223}
+{"level":"INFO","time":"2022-12-16T14:34:40.939+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0049254}
+{"level":"INFO","time":"2022-12-16T14:34:41.556+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0041126}
+{"level":"INFO","time":"2022-12-16T14:34:42.129+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.004373}
+{"level":"INFO","time":"2022-12-16T14:34:42.847+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0042329}
+{"level":"INFO","time":"2022-12-16T14:34:43.709+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.003112}
+{"level":"INFO","time":"2022-12-16T14:36:51.954+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T14:36:51.957+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T14:36:55.541+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T14:37:01.682+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0049927}
+{"level":"INFO","time":"2022-12-16T14:37:05.720+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.00424}
+{"level":"INFO","time":"2022-12-16T14:56:57.048+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T14:56:57.058+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T14:57:36.321+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T14:57:41.537+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0063395}
+{"level":"INFO","time":"2022-12-16T15:01:33.798+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:01:33.813+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:01:36.411+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:01:50.642+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:01:50.649+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:02:06.362+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:13:41.028+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:13:41.037+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:13:44.268+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:14:46.207+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:14:46.207+0800","caller":"GoWebLearn/main.go:81","msg":"Listening and serving HTTP on %!s(int=8080)\n"}
+{"level":"INFO","time":"2022-12-16T15:14:46.217+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:14:49.193+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:14:58.968+0800","caller":"GoWebLearn/main.go:93","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:14:58.968+0800","caller":"GoWebLearn/main.go:81","msg":"Listening and serving HTTP on %!s(int=8080)\n"}
+{"level":"INFO","time":"2022-12-16T15:14:58.975+0800","caller":"GoWebLearn/main.go:102","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:16:00.500+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:16:00.525+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on %!s(int=8080)\n"}
+{"level":"INFO","time":"2022-12-16T15:16:19.940+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:16:19.950+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:16:22.306+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:16:22.334+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T15:17:09.143+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:17:09.153+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:17:12.285+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:17:12.313+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080"}
+{"level":"INFO","time":"2022-12-16T15:17:23.556+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:17:23.560+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:17:26.182+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:17:26.208+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T15:17:31.894+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0194159}
+{"level":"INFO","time":"2022-12-16T15:49:45.376+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:49:45.388+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:49:49.437+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:49:49.480+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"ERROR","time":"2022-12-16T15:50:45.570+0800","caller":"controller/user.go:57","msg":"Login with invalid param.","error":"EOF"}
+{"level":"INFO","time":"2022-12-16T15:50:45.570+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005373}
+{"level":"INFO","time":"2022-12-16T15:52:08.091+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0230374}
+{"level":"ERROR","time":"2022-12-16T15:52:32.684+0800","caller":"controller/user.go:72","msg":"logic.login failed.","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T15:52:32.684+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0050721}
+{"level":"ERROR","time":"2022-12-16T15:53:00.034+0800","caller":"controller/user.go:72","msg":"logic.login failed.","error":"密码错误"}
+{"level":"INFO","time":"2022-12-16T15:53:00.035+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0042337}
+{"level":"INFO","time":"2022-12-16T15:53:07.068+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0136177}
+{"level":"ERROR","time":"2022-12-16T15:53:38.446+0800","caller":"controller/user.go:57","msg":"Login with invalid param.","error":"Key: 'ParamLogin.password' Error:Field validation for 'password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T15:53:38.446+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T15:53:43.057+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0034347}
+{"level":"INFO","time":"2022-12-16T15:55:22.373+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T15:55:22.384+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T15:55:26.788+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T15:55:26.823+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T15:55:34.361+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0046241}
+{"level":"ERROR","time":"2022-12-16T15:55:40.642+0800","caller":"controller/user.go:72","msg":"logic.login failed.","username":"miike","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T15:55:40.642+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0041351}
+{"level":"ERROR","time":"2022-12-16T15:55:59.510+0800","caller":"controller/user.go:72","msg":"logic.login failed.","username":"mike","error":"密码错误"}
+{"level":"INFO","time":"2022-12-16T15:55:59.510+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0037848}
+{"level":"INFO","time":"2022-12-16T15:56:05.575+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0032492}
+{"level":"INFO","time":"2022-12-16T16:21:05.538+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T16:21:05.543+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T16:39:47.823+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T16:39:47.871+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T16:39:58.379+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0333661}
+{"level":"INFO","time":"2022-12-16T16:40:03.879+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0043281}
+{"level":"ERROR","time":"2022-12-16T16:40:06.973+0800","caller":"controller/user.go:66","msg":"logic.login failed.","username":"mike","error":"密码错误"}
+{"level":"INFO","time":"2022-12-16T16:40:06.973+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0038209}
+{"level":"INFO","time":"2022-12-16T16:41:06.867+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T16:41:06.881+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T16:41:10.237+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T16:41:10.279+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"ERROR","time":"2022-12-16T16:41:15.394+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mike","error":"密码错误"}
+{"level":"INFO","time":"2022-12-16T16:41:15.395+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0051151}
+{"level":"ERROR","time":"2022-12-16T16:41:25.015+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:41:25.016+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0049959}
+{"level":"ERROR","time":"2022-12-16T16:41:41.730+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:41:41.731+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0031966}
+{"level":"INFO","time":"2022-12-16T16:41:44.150+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T16:41:44.159+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T16:41:46.503+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T16:41:46.528+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"ERROR","time":"2022-12-16T16:41:51.972+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:41:51.972+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0043882}
+{"level":"ERROR","time":"2022-12-16T16:42:26.416+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:26.417+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0051613}
+{"level":"ERROR","time":"2022-12-16T16:42:26.980+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:26.980+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0039923}
+{"level":"ERROR","time":"2022-12-16T16:42:27.388+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:27.389+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0037677}
+{"level":"ERROR","time":"2022-12-16T16:42:27.601+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:27.601+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0045554}
+{"level":"ERROR","time":"2022-12-16T16:42:27.806+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:27.807+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0040878}
+{"level":"ERROR","time":"2022-12-16T16:42:28.002+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:28.002+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0030755}
+{"level":"ERROR","time":"2022-12-16T16:42:28.187+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:28.187+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0039936}
+{"level":"ERROR","time":"2022-12-16T16:42:28.399+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:28.400+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0044093}
+{"level":"ERROR","time":"2022-12-16T16:42:28.798+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:28.798+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0033882}
+{"level":"ERROR","time":"2022-12-16T16:42:29.089+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:29.090+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0033742}
+{"level":"ERROR","time":"2022-12-16T16:42:29.333+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:29.333+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0047762}
+{"level":"ERROR","time":"2022-12-16T16:42:29.622+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:29.622+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0039823}
+{"level":"ERROR","time":"2022-12-16T16:42:29.983+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:29.984+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0065748}
+{"level":"ERROR","time":"2022-12-16T16:42:30.606+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:30.606+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0040862}
+{"level":"ERROR","time":"2022-12-16T16:42:31.026+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:31.026+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0039369}
+{"level":"ERROR","time":"2022-12-16T16:42:31.457+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:31.457+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0027304}
+{"level":"ERROR","time":"2022-12-16T16:42:31.847+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:31.847+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.003603}
+{"level":"ERROR","time":"2022-12-16T16:42:32.287+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:32.287+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0043594}
+{"level":"ERROR","time":"2022-12-16T16:42:32.784+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:42:32.785+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0041248}
+{"level":"ERROR","time":"2022-12-16T16:43:02.961+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:43:02.961+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0033244}
+{"level":"ERROR","time":"2022-12-16T16:43:03.554+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:43:03.555+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.004092}
+{"level":"ERROR","time":"2022-12-16T16:43:04.166+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:43:04.167+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0044117}
+{"level":"ERROR","time":"2022-12-16T16:43:04.721+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:43:04.722+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0042992}
+{"level":"ERROR","time":"2022-12-16T16:43:08.657+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:43:08.660+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0322029}
+{"level":"ERROR","time":"2022-12-16T16:43:13.707+0800","caller":"controller/user.go:56","msg":"Login with invalid param.","error":"Key: 'ParamLogin.password' Error:Field validation for 'password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T16:43:13.707+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0006388}
+{"level":"ERROR","time":"2022-12-16T16:43:59.156+0800","caller":"controller/user.go:56","msg":"Login with invalid param.","error":"Key: 'ParamLogin.password' Error:Field validation for 'password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-12-16T16:43:59.156+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005524}
+{"level":"ERROR","time":"2022-12-16T16:44:03.291+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:44:03.293+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0060121}
+{"level":"ERROR","time":"2022-12-16T16:44:10.282+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mikey","error":"用户不存在"}
+{"level":"INFO","time":"2022-12-16T16:44:10.283+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0038943}
+{"level":"ERROR","time":"2022-12-16T16:44:13.769+0800","caller":"controller/user.go:67","msg":"logic.login failed.","username":"mike","error":"密码错误"}
+{"level":"INFO","time":"2022-12-16T16:44:13.770+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0042142}
+{"level":"INFO","time":"2022-12-16T16:44:19.429+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.003925}
+{"level":"ERROR","time":"2022-12-16T16:44:25.330+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-16T16:44:25.331+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0072351}
+{"level":"INFO","time":"2022-12-16T16:44:35.873+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0483949}
+{"level":"ERROR","time":"2022-12-16T16:44:40.335+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-16T16:44:40.335+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0047414}
+{"level":"ERROR","time":"2022-12-16T16:44:44.496+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-16T16:44:44.496+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.004271}
+{"level":"ERROR","time":"2022-12-16T16:44:50.021+0800","caller":"controller/user.go:24","msg":"SignUp with invalid param.","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-12-16T16:44:50.022+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005255}
+{"level":"ERROR","time":"2022-12-16T16:44:58.111+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-16T16:44:58.112+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0043366}
+{"level":"INFO","time":"2022-12-16T16:45:22.308+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0044545}

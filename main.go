@@ -10,6 +10,8 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/Olixn/GoWebLearn/controller"
+
 	"github.com/Olixn/GoWebLearn/router"
 
 	"github.com/Olixn/GoWebLearn/pkg/snowflake"
@@ -33,7 +35,7 @@ func main() {
 	fmt.Println(setting.Conf)
 	fmt.Println(setting.Conf.LogConfig == nil)
 	// 2. 初始化日志
-	if err := logger.Init(setting.Conf.LogConfig); err != nil {
+	if err := logger.Init(setting.Conf.LogConfig, setting.Conf.Mode); err != nil {
 		fmt.Printf("init logger failed, err:%v\n", err)
 		return
 	}
@@ -57,15 +59,21 @@ func main() {
 		return
 	}
 
+	// 初始化gin内部的检验器，使用翻译器
+	if err := controller.InitTrans("zh"); err != nil {
+		fmt.Printf("init validator trans failed, err:%v\n", err)
+		return
+	}
+
 	// 5. 注册路由
 	r := router.Setup(setting.Conf.Mode)
 	// 6. 启动服务（优雅关机）
-	fmt.Println(setting.Conf.Port)
 	srv := &http.Server{
 		Addr:    fmt.Sprintf(":%d", setting.Conf.Port),
 		Handler: r,
 	}
 
+	zap.L().Info(fmt.Sprintf("Listening and serving HTTP on %d\n", setting.Conf.Port))
 	go func() {
 		// 开启一个goroutine启动服务
 		if err := srv.ListenAndServe(); err != nil && err != http.ErrServerClosed {

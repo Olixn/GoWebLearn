@@ -3,7 +3,7 @@ package mysql
 import (
 	"fmt"
 
-	"github.com/Olixn/GoWebLearn/settings"
+	"github.com/Olixn/GoWebLearn/setting"
 
 	"go.uber.org/zap"
 
@@ -13,7 +13,7 @@ import (
 
 var db *sqlx.DB
 
-func Init(cfg *settings.MySQLConfig) (err error) {
+func Init(cfg *setting.MySQLConfig) (err error) {
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%d)/%s?charset=utf8mb4&parseTime=True",
 		cfg.User,
 		cfg.Password,
