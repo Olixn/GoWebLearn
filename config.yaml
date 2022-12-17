@@ -1,9 +1,11 @@
 name: "web_app"
 mode: "dev"
-port: 8080
+port: 8081
 version: "v0.0.1"
 start_time: "2022-12-15"
 machine_id: 1
+auth:
+  jwt_expire: 8760
 log:
   level: "debug"
   filename: "web_app.log"

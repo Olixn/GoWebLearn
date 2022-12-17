@@ -4,18 +4,11 @@ import (
 	"crypto/md5"
 	"database/sql"
 	"encoding/hex"
-	"errors"
 
 	"github.com/Olixn/GoWebLearn/models"
 )
 
 const secret = "golang111"
-
-var (
-	ErrorUserExist       = errors.New("用户已存在")
-	ErrorUserNotExist    = errors.New("用户不存在")
-	ErrorInvalidPassword = errors.New("密码错误")
-)
 
 // 把每一步数据库操作封装成函数
 // 等待logic层根据业务需求调用
@@ -63,4 +56,11 @@ func Login(user *models.User) (err error) {
 		return ErrorInvalidPassword
 	}
 	return nil
+}
+
+func GetUserByID(id int64) (user *models.User, err error) {
+	user = new(models.User)
+	sqlStr := `SELECT user_id,username FROM user WHERE user_id = ?`
+	err = db.Get(user, sqlStr, id)
+	return
 }

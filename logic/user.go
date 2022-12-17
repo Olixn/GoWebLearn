@@ -3,6 +3,7 @@ package logic
 import (
 	"github.com/Olixn/GoWebLearn/dao/mysql"
 	"github.com/Olixn/GoWebLearn/models"
+	"github.com/Olixn/GoWebLearn/pkg/jwt"
 	"github.com/Olixn/GoWebLearn/pkg/snowflake"
 )
 
@@ -25,10 +26,18 @@ func SignUp(p *models.ParamSignUp) (err error) {
 	return mysql.InsertUser(u)
 }
 
-func Login(p *models.ParamLogin) (err error) {
+func Login(p *models.ParamLogin) (token string, err error) {
 	user := &models.User{
 		Username: p.Username,
 		Password: p.Password,
 	}
-	return mysql.Login(user)
+
+	// 传的是指针，所以在mysql包查询成功并赋值，logic包中的user也变了
+	if err = mysql.Login(user); err != nil {
+		return "", err
+	}
+
+	// 生成JWT
+	token, err = jwt.GenToken(user.UserID, user.Username)
+	return
 }

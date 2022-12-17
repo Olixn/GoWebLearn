@@ -267,3 +267,505 @@
 {"level":"ERROR","time":"2022-12-16T16:44:58.111+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
 {"level":"INFO","time":"2022-12-16T16:44:58.112+0800","caller":"logger/logger.go:81","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0043366}
 {"level":"INFO","time":"2022-12-16T16:45:22.308+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0044545}
+{"level":"INFO","time":"2022-12-16T17:05:15.394+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T17:05:15.403+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T18:07:45.077+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T18:07:45.229+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T18:07:53.334+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0418873}
+{"level":"INFO","time":"2022-12-16T18:07:59.635+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0043735}
+{"level":"INFO","time":"2022-12-16T18:09:05.189+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0050521}
+{"level":"INFO","time":"2022-12-16T18:09:20.953+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0071831}
+{"level":"INFO","time":"2022-12-16T18:09:30.789+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.004284}
+{"level":"INFO","time":"2022-12-16T18:51:14.358+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T18:51:14.369+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T18:56:36.316+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T18:56:36.373+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T18:56:52.356+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0183081}
+{"level":"INFO","time":"2022-12-16T19:00:36.394+0800","caller":"logger/logger.go:81","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.000448}
+{"level":"INFO","time":"2022-12-16T19:00:52.314+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0051874}
+{"level":"INFO","time":"2022-12-16T19:00:53.129+0800","caller":"logger/logger.go:81","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0140469}
+{"level":"INFO","time":"2022-12-16T19:00:57.497+0800","caller":"logger/logger.go:81","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T19:00:58.870+0800","caller":"logger/logger.go:81","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T19:00:59.605+0800","caller":"logger/logger.go:81","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T19:04:57.008+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T19:04:57.023+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T20:04:18.430+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-16T20:04:18.432+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:04:18.671+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T20:04:46.213+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T20:04:46.222+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T20:05:10.787+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:05:10.826+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"DEBUG","time":"2022-12-16T20:05:30.476+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:05:30.530+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"DEBUG","time":"2022-12-16T20:05:33.326+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:05:33.367+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8080\n"}
+{"level":"INFO","time":"2022-12-16T20:11:49.307+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T20:11:49.313+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T20:12:37.701+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-16T20:12:37.707+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:12:37.765+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-16T20:12:37.773+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-16T20:13:19.264+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T20:13:19.275+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-16T20:16:53.042+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:16:53.166+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-16T20:16:57.612+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T20:17:03.699+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-16T20:17:47.046+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-16T20:17:47.079+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-16T20:17:50.531+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0.051704}
+{"level":"INFO","time":"2022-12-16T20:17:50.749+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-16T20:18:46.319+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-16T20:18:46.334+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-17T11:45:21.206+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-17T11:46:13.339+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T11:46:13.366+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T11:48:12.017+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0660003}
+{"level":"INFO","time":"2022-12-17T11:48:14.068+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0741846}
+{"level":"INFO","time":"2022-12-17T11:48:14.659+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:48:20.166+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0012431}
+{"level":"INFO","time":"2022-12-17T11:48:20.450+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:48:21.278+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:48:21.542+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:49:37.441+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0007915}
+{"level":"INFO","time":"2022-12-17T11:49:40.529+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0002257}
+{"level":"INFO","time":"2022-12-17T11:57:13.544+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0008121}
+{"level":"INFO","time":"2022-12-17T11:57:15.824+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:16.448+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:16.928+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:17.597+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:17.851+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:18.059+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:18.769+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T11:57:19.037+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-17T12:00:35.884+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:00:35.909+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:00:43.630+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:00:43.662+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:01:11.105+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:01:11.129+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:01:42.185+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:01:42.219+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:01:50.174+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0009978}
+{"level":"INFO","time":"2022-12-17T12:02:11.985+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"GET","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:02:28.427+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"GET","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:02:51.539+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"POST","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:02:55.392+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"POST","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005619}
+{"level":"INFO","time":"2022-12-17T12:03:11.303+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"POST","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:03:21.736+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0203085}
+{"level":"INFO","time":"2022-12-17T12:03:45.152+0800","caller":"logger/logger.go:81","msg":"/api/v1/sign","status":200,"method":"POST","path":"/api/v1/sign","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:03:46.224+0800","caller":"logger/logger.go:81","msg":"/api/v1/sign","status":200,"method":"POST","path":"/api/v1/sign","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-17T12:03:50.801+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-17T12:03:50.801+0800","caller":"logger/logger.go:81","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0051303}
+{"level":"ERROR","time":"2022-12-17T12:03:51.659+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-17T12:03:51.660+0800","caller":"logger/logger.go:81","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0040126}
+{"level":"DEBUG","time":"2022-12-17T12:04:09.437+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:04:09.463+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:04:09.784+0800","caller":"logger/logger.go:81","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:04:10.498+0800","caller":"logger/logger.go:81","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-17T12:04:18.428+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:04:18.453+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:05:44.192+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:05:44.216+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:05:50.685+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:05:50.721+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:08:48.974+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:08:49.011+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"ERROR","time":"2022-12-17T12:08:54.976+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-17T12:08:54.976+0800","caller":"logger/logger.go:81","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0054625}
+{"level":"ERROR","time":"2022-12-17T12:08:55.960+0800","caller":"controller/user.go:39","msg":"logic.SignUp failed.","error":"用户已存在"}
+{"level":"INFO","time":"2022-12-17T12:08:55.960+0800","caller":"logger/logger.go:81","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0050649}
+{"level":"INFO","time":"2022-12-17T12:09:06.656+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"POST","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:09:07.435+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"POST","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:09:35.593+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"GET","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:09:40.100+0800","caller":"logger/logger.go:81","msg":"/api/v1/version","status":200,"method":"GET","path":"/api/v1/version","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-17T12:10:00.319+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:10:00.355+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:11:36.205+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:11:36.233+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:12:16.205+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:12:16.233+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:12:22.902+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-17T12:12:22.906+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:12:22.932+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:12:22.937+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:26:29.548+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:26:29.580+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:27:11.132+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:27:12.583+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.000516}
+{"level":"INFO","time":"2022-12-17T12:27:14.001+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:27:14.545+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:27:22.970+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:27:40.484+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0052199}
+{"level":"INFO","time":"2022-12-17T12:27:40.718+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:27:43.491+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:28:41.783+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-17T12:28:59.498+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:28:59.522+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:29:01.530+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0142097}
+{"level":"INFO","time":"2022-12-17T12:29:17.180+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0007712}
+{"level":"INFO","time":"2022-12-17T12:29:42.099+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:29:54.947+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0105589}
+{"level":"INFO","time":"2022-12-17T12:30:35.861+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:30:37.500+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:30:39.574+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:31:48.314+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0040207}
+{"level":"INFO","time":"2022-12-17T12:31:48.578+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:32:03.715+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:33:10.433+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0025535}
+{"level":"INFO","time":"2022-12-17T12:33:23.290+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T12:34:31.214+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0010908}
+{"level":"INFO","time":"2022-12-17T12:36:46.265+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0004929}
+{"level":"INFO","time":"2022-12-17T12:36:51.576+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0002017}
+{"level":"INFO","time":"2022-12-17T12:38:41.679+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0040877}
+{"level":"DEBUG","time":"2022-12-17T12:40:06.622+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:40:06.652+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:40:39.509+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0040529}
+{"level":"INFO","time":"2022-12-17T12:40:39.770+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0000922}
+{"level":"INFO","time":"2022-12-17T12:40:43.340+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0025792}
+{"level":"DEBUG","time":"2022-12-17T12:46:57.647+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-17T12:46:57.647+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:46:57.693+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:46:57.693+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T12:47:27.426+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0180054}
+{"level":"INFO","time":"2022-12-17T12:47:30.486+0800","caller":"logger/logger.go:81","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0047089}
+{"level":"DEBUG","time":"2022-12-17T12:48:44.212+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:48:44.253+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:48:56.758+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:48:56.799+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:49:35.841+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:49:35.874+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:50:09.552+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:50:09.584+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:50:42.415+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:50:42.447+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:50:48.633+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:50:48.672+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:54:39.786+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:54:39.823+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:55:01.964+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:55:02.012+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:55:55.637+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:55:55.668+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:56:27.589+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:56:27.622+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:56:50.851+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:56:50.890+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:57:06.936+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:57:06.971+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:57:16.200+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:57:16.236+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T12:58:01.032+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T12:58:01.062+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:05:14.381+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:05:14.418+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:05:31.200+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:05:31.233+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:05:39.131+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:05:39.166+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:05:58.529+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:05:58.567+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:07:55.266+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:07:55.291+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:08:02.617+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:08:02.645+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:08:58.439+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:08:58.472+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:09:49.783+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:09:49.810+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:09:56.325+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:09:56.361+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:10:05.612+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:10:05.648+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:10:19.462+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:10:19.491+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:13:42.019+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:13:42.055+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T13:14:26.275+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"POST","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:15:13.729+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"POST","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-17T13:15:30.008+0800","caller":"controller/community.go:37","msg":"logic.GetCommunityDetail() failed.","error":"scannable dest type ptr with >1 columns (4) in result"}
+{"level":"INFO","time":"2022-12-17T13:15:30.009+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0240141}
+{"level":"DEBUG","time":"2022-12-17T13:21:28.427+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:21:28.462+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"ERROR","time":"2022-12-17T13:21:30.157+0800","caller":"controller/community.go:37","msg":"logic.GetCommunityDetail() failed.","error":"scannable dest type ptr with >1 columns (4) in result"}
+{"level":"INFO","time":"2022-12-17T13:21:30.157+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0141183}
+{"level":"ERROR","time":"2022-12-17T13:21:31.124+0800","caller":"controller/community.go:37","msg":"logic.GetCommunityDetail() failed.","error":"scannable dest type ptr with >1 columns (4) in result"}
+{"level":"INFO","time":"2022-12-17T13:21:31.124+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0041419}
+{"level":"ERROR","time":"2022-12-17T13:21:31.929+0800","caller":"controller/community.go:37","msg":"logic.GetCommunityDetail() failed.","error":"scannable dest type ptr with >1 columns (4) in result"}
+{"level":"INFO","time":"2022-12-17T13:21:31.929+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0033366}
+{"level":"DEBUG","time":"2022-12-17T13:22:52.770+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:22:52.804+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T13:22:54.619+0800","caller":"logger/logger.go:81","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0077269}
+{"level":"INFO","time":"2022-12-17T13:25:10.179+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0062989}
+{"level":"INFO","time":"2022-12-17T13:25:32.408+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:25:37.122+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:25:37.365+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:25:38.094+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=score","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:25:38.984+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:25:39.318+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0017128}
+{"level":"INFO","time":"2022-12-17T13:26:15.225+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T13:26:17.300+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-17T13:33:41.404+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:33:41.466+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:34:48.615+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:34:48.667+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:35:26.870+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:35:26.917+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:49:38.022+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:49:38.123+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:50:26.842+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:50:26.885+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:51:20.725+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:51:20.765+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:51:51.296+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:51:51.376+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T13:51:55.180+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T13:51:55.221+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:01:06.832+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:01:06.871+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:02:32.900+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:02:32.927+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:03:35.655+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:03:35.691+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:05:08.608+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:05:08.644+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:05:45.088+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:05:45.129+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T14:06:23.812+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T14:06:34.817+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T14:07:34.809+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0007038}
+{"level":"INFO","time":"2022-12-17T14:07:36.565+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0423313}
+{"level":"INFO","time":"2022-12-17T14:07:39.700+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T14:07:40.515+0800","caller":"logger/logger.go:81","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0082774}
+{"level":"DEBUG","time":"2022-12-17T14:08:50.635+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:08:50.669+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:09:13.655+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:09:13.685+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"ERROR","time":"2022-12-17T14:09:23.120+0800","caller":"controller/post.go:14","msg":"c.ShouldBindJSON() failed.","error":"invalid character 'ï' after object key:value pair"}
+{"level":"INFO","time":"2022-12-17T14:09:23.121+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0008129}
+{"level":"DEBUG","time":"2022-12-17T14:10:20.772+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:10:20.826+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:10:21.101+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:10:21.148+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:10:30.212+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:10:30.249+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:10:41.404+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:10:41.435+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:11:19.531+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:11:19.560+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:11:37.590+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:11:37.632+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:11:45.775+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:11:45.807+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:12:05.949+0800","caller":"controller/post.go:14","msg":"c.ShouldBindJSON(p) error.","err":"invalid character 'ï' after object key:value pair"}
+{"level":"ERROR","time":"2022-12-17T14:12:05.949+0800","caller":"controller/post.go:15","msg":"create post with invalid param."}
+{"level":"INFO","time":"2022-12-17T14:12:05.949+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005713}
+{"level":"DEBUG","time":"2022-12-17T14:12:42.158+0800","caller":"controller/post.go:14","msg":"c.ShouldBindJSON(p) error.","err":"Key: 'Post.author_id' Error:Field validation for 'author_id' failed on the 'required' tag\nKey: 'Post.community_id' Error:Field validation for 'community_id' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-12-17T14:12:42.158+0800","caller":"controller/post.go:15","msg":"create post with invalid param."}
+{"level":"INFO","time":"2022-12-17T14:12:42.158+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-12-17T14:13:41.222+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:13:41.270+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:13:41.508+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:13:41.539+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:13:59.593+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:13:59.621+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:14:03.787+0800","caller":"controller/post.go:14","msg":"c.ShouldBindJSON(p) error.","err":"Key: 'Post.community_id' Error:Field validation for 'community_id' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-12-17T14:14:03.787+0800","caller":"controller/post.go:15","msg":"create post with invalid param."}
+{"level":"INFO","time":"2022-12-17T14:14:03.787+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0005427}
+{"level":"INFO","time":"2022-12-17T14:14:47.482+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0878625}
+{"level":"DEBUG","time":"2022-12-17T14:16:45.174+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:16:45.206+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:18:13.762+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:18:13.810+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:19:04.775+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:19:04.814+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:21:23.980+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:21:24.028+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:32:30.753+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:32:30.795+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:32:51.172+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:32:51.216+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T14:33:21.007+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/819094693613568","status":200,"method":"POST","path":"/api/v1/post/819094693613568","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T14:33:48.138+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/819094693613568","status":200,"method":"GET","path":"/api/v1/post/819094693613568","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0}
+{"level":"ERROR","time":"2022-12-17T14:34:13.720+0800","caller":"controller/post.go:53","msg":"logic.GetPostDetail(pid) failed.","error":"Error 1241 (21000): Operand should contain 1 column(s)"}
+{"level":"INFO","time":"2022-12-17T14:34:13.720+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/819094693613568","status":200,"method":"GET","path":"/api/v1/post/819094693613568","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0099992}
+{"level":"INFO","time":"2022-12-17T14:35:22.585+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0190593}
+{"level":"ERROR","time":"2022-12-17T14:35:26.928+0800","caller":"controller/post.go:53","msg":"logic.GetPostDetail(pid) failed.","error":"Error 1241 (21000): Operand should contain 1 column(s)"}
+{"level":"INFO","time":"2022-12-17T14:35:26.928+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/819094693613568","status":200,"method":"GET","path":"/api/v1/post/819094693613568","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0015225}
+{"level":"ERROR","time":"2022-12-17T14:35:41.487+0800","caller":"controller/post.go:53","msg":"logic.GetPostDetail(pid) failed.","error":"Error 1241 (21000): Operand should contain 1 column(s)"}
+{"level":"INFO","time":"2022-12-17T14:35:41.487+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0016042}
+{"level":"DEBUG","time":"2022-12-17T14:37:20.913+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-17T14:37:20.919+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:37:20.999+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T14:37:21.011+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:38:15.161+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:38:15.209+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"ERROR","time":"2022-12-17T14:38:50.453+0800","caller":"controller/post.go:53","msg":"logic.GetPostDetail(pid) failed.","error":"Error 1241 (21000): Operand should contain 1 column(s)"}
+{"level":"INFO","time":"2022-12-17T14:38:50.454+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0045973}
+{"level":"DEBUG","time":"2022-12-17T14:39:11.409+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:39:11.433+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T14:39:13.618+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0159592}
+{"level":"INFO","time":"2022-12-17T14:39:25.865+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0114127}
+{"level":"INFO","time":"2022-12-17T14:39:42.561+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0040063}
+{"level":"INFO","time":"2022-12-17T14:40:40.255+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0052005}
+{"level":"DEBUG","time":"2022-12-17T14:43:22.905+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:43:22.951+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:43:45.285+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:43:45.338+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:44:08.368+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:44:08.473+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:44:10.992+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:44:11.046+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:44:22.373+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:44:22.432+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:44:30.628+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:44:30.680+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:45:00.556+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:45:00.616+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:45:21.478+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:45:21.529+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:58:41.207+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:58:41.244+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T14:58:59.401+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:58:59.455+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T14:59:11.078+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-17T14:59:11.086+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-17T14:59:14.351+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T14:59:14.399+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T14:59:18.996+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0335093}
+{"level":"DEBUG","time":"2022-12-17T15:00:15.689+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:00:15.762+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:00:22.404+0800","caller":"logger/logger.go:81","msg":"/api/v1/post/824275384668160","status":200,"method":"GET","path":"/api/v1/post/824275384668160","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0266447}
+{"level":"DEBUG","time":"2022-12-17T15:00:54.790+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:00:54.843+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:01:18.776+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:01:18.823+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:02:01.071+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:02:01.108+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:02:42.190+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:02:42.223+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:03:05.051+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:03:05.133+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:19:22.815+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:19:22.858+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:20:11.046+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"GET","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0274871}
+{"level":"INFO","time":"2022-12-17T15:21:02.814+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0276582}
+{"level":"INFO","time":"2022-12-17T15:21:06.246+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"GET","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0265002}
+{"level":"DEBUG","time":"2022-12-17T15:22:51.287+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:22:51.330+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"ERROR","time":"2022-12-17T15:22:58.243+0800","caller":"controller/post.go:65","msg":"logic.GetPostList() failed","error":"Error 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC LIMIT 2' at line 1"}
+{"level":"INFO","time":"2022-12-17T15:22:58.243+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"GET","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0183034}
+{"level":"DEBUG","time":"2022-12-17T15:23:15.239+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:23:15.276+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:23:19.675+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"GET","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0255308}
+{"level":"INFO","time":"2022-12-17T15:23:42.733+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0}
+{"level":"INFO","time":"2022-12-17T15:23:48.287+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts2","status":200,"method":"GET","path":"/api/v1/posts2","query":"page=1&order=time","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54","errors":"","cost":0.0009988}
+{"level":"DEBUG","time":"2022-12-17T15:24:51.993+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:24:52.020+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:24:52.590+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0284105}
+{"level":"DEBUG","time":"2022-12-17T15:25:59.040+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:25:59.077+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:30:58.679+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:30:58.731+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:31:23.232+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:31:23.272+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:31:34.036+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:31:34.095+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:31:37.281+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:31:37.312+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:32:00.287+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:32:00.326+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:32:13.292+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:32:13.341+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:32:34.552+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:32:34.626+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:34:55.849+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:34:55.883+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:35:40.716+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:35:40.758+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:36:10.935+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:36:10.986+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:36:27.008+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:36:27.038+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:36:41.082+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:36:41.122+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:37:09.469+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.013484}
+{"level":"INFO","time":"2022-12-17T15:37:16.161+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=0&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0168855}
+{"level":"INFO","time":"2022-12-17T15:37:21.717+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=0&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0173161}
+{"level":"INFO","time":"2022-12-17T15:37:26.253+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.020834}
+{"level":"INFO","time":"2022-12-17T15:37:30.269+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=2","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0216216}
+{"level":"INFO","time":"2022-12-17T15:37:41.404+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=2&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0176281}
+{"level":"INFO","time":"2022-12-17T15:37:47.210+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0152828}
+{"level":"INFO","time":"2022-12-17T15:37:50.792+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=2","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0163139}
+{"level":"INFO","time":"2022-12-17T15:38:23.829+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=0&size=2","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0549178}
+{"level":"INFO","time":"2022-12-17T15:38:35.304+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=21","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0032189}
+{"level":"INFO","time":"2022-12-17T15:38:40.892+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0180356}
+{"level":"INFO","time":"2022-12-17T15:38:45.763+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=10","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0032448}
+{"level":"DEBUG","time":"2022-12-17T15:39:02.481+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:39:02.520+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:39:02.722+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=10","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0094356}
+{"level":"INFO","time":"2022-12-17T15:39:03.639+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=10","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0135146}
+{"level":"DEBUG","time":"2022-12-17T15:41:40.433+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:41:40.476+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:41:55.706+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=2&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0225762}
+{"level":"INFO","time":"2022-12-17T15:42:05.508+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0124903}
+{"level":"INFO","time":"2022-12-17T15:42:13.076+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=3&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0150844}
+{"level":"INFO","time":"2022-12-17T15:42:17.743+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=2&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0114697}
+{"level":"INFO","time":"2022-12-17T15:43:01.545+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0109314}
+{"level":"INFO","time":"2022-12-17T15:43:05.699+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0238692}
+{"level":"INFO","time":"2022-12-17T15:43:07.963+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0125156}
+{"level":"INFO","time":"2022-12-17T15:43:11.616+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0105525}
+{"level":"INFO","time":"2022-12-17T15:43:14.000+0800","caller":"logger/logger.go:81","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0152083}
+{"level":"INFO","time":"2022-12-17T15:43:16.954+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=2&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.021206}
+{"level":"INFO","time":"2022-12-17T15:43:27.980+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0114113}
+{"level":"INFO","time":"2022-12-17T15:44:01.708+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=0","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0151754}
+{"level":"INFO","time":"2022-12-17T15:44:05.821+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=2","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0240177}
+{"level":"INFO","time":"2022-12-17T15:44:25.654+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0112441}
+{"level":"DEBUG","time":"2022-12-17T15:44:53.262+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-12-17T15:44:53.271+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:44:53.291+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:44:53.300+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:45:04.224+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0246701}
+{"level":"INFO","time":"2022-12-17T15:45:09.053+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0118676}
+{"level":"INFO","time":"2022-12-17T15:45:24.299+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0029948}
+{"level":"INFO","time":"2022-12-17T15:46:03.819+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=0","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0038809}
+{"level":"INFO","time":"2022-12-17T15:46:07.695+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0026499}
+{"level":"INFO","time":"2022-12-17T15:46:16.459+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=20","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.003739}
+{"level":"INFO","time":"2022-12-17T15:46:20.056+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.016722}
+{"level":"INFO","time":"2022-12-17T15:46:38.071+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=2","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.023036}
+{"level":"INFO","time":"2022-12-17T15:51:21.592+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-17T15:51:21.889+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-17T15:51:40.151+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:51:40.178+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:51:58.830+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0215086}
+{"level":"DEBUG","time":"2022-12-17T15:52:46.343+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:52:46.367+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:52:51.810+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:52:51.839+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:52:56.978+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:52:57.035+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:53:00.118+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:53:00.154+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:53:24.601+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0278164}
+{"level":"ERROR","time":"2022-12-17T15:53:29.522+0800","caller":"controller/post.go:67","msg":"logic.GetPostList() failed","error":"Error 1690 (22003): signed integer value is out of range in 'mysqld_stmt_execute'"}
+{"level":"INFO","time":"2022-12-17T15:53:29.523+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=-1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0091485}
+{"level":"DEBUG","time":"2022-12-17T15:54:10.645+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:54:10.681+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:54:36.189+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:54:36.233+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T15:54:39.674+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=-1&size=1","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0521884}
+{"level":"INFO","time":"2022-12-17T15:54:52.231+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=-1&size=10","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0583756}
+{"level":"DEBUG","time":"2022-12-17T15:55:27.424+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:55:27.455+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:55:47.637+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:55:47.677+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"DEBUG","time":"2022-12-17T15:59:00.867+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T15:59:00.907+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T16:00:06.631+0800","caller":"GoWebLearn/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-12-17T16:00:06.641+0800","caller":"GoWebLearn/main.go:101","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-12-17T16:03:33.338+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T16:03:33.386+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
+{"level":"INFO","time":"2022-12-17T16:03:39.974+0800","caller":"logger/logger.go:81","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"page=-1&size=10","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.0803975}
+{"level":"DEBUG","time":"2022-12-17T16:07:15.891+0800","caller":"GoWebLearn/main.go:43","msg":"logger init success..."}
+{"level":"INFO","time":"2022-12-17T16:07:15.930+0800","caller":"GoWebLearn/main.go:76","msg":"Listening and serving HTTP on 8081\n"}
