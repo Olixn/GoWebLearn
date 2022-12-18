@@ -37,7 +37,11 @@ func Setup(mode string) *gin.Engine {
 		v1.POST("/post", controller.CreatePostHandler)
 		// 帖子详情
 		v1.GET("/post/:id", controller.PostDetailHandler)
-		v1.GET("posts", controller.PostListHandler)
+		v1.GET("/posts", controller.PostListHandler)
+		v1.GET("/posts2", controller.PostListHandler2)
+
+		// 投票
+		v1.POST("/vote", controller.PostVoteHandler)
 		v1.GET("/version", func(c *gin.Context) {
 			c.String(http.StatusOK, setting.Conf.Version)
 		})

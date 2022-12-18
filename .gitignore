@@ -1,2 +1,2 @@
-
-web_app.log
+*.log
+/tmp/

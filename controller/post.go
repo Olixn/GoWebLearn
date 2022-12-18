@@ -71,3 +71,52 @@ func PostListHandler(c *gin.Context) {
 
 	ResponseSuccess(c, data)
 }
+
+// PostListHandler2 帖子分页列表
+func PostListHandler2(c *gin.Context) {
+
+	p := &models.ParamPostList{
+		Page:  1,
+		Size:  10,
+		Order: models.OrderTime,
+	}
+	if err := c.ShouldBindQuery(p); err != nil {
+		zap.L().Error("c.ShouldBindQuery(p); failed", zap.Error(err))
+		ResponseError(c, CodeInvalidParam)
+		return
+	}
+
+	data, err := logic.GetPostListNew(p)
+	if err != nil {
+		zap.L().Error("logic.GetPostListNew(p) failed", zap.Error(err))
+		ResponseError(c, CodeServerBusy)
+		return
+	}
+
+	ResponseSuccess(c, data)
+}
+
+//// CommunityPostListHandler 根据社区去查询帖子列表
+//func CommunityPostListHandler(c *gin.Context) {
+//	p := &models.ParamCommunityPostList{
+//		ParamPostList: &models.ParamPostList{
+//			Page:  1,
+//			Size:  10,
+//			Order: models.OrderTime,
+//		},
+//	}
+//	if err := c.ShouldBindQuery(p); err != nil {
+//		zap.L().Error("c.ShouldBindQuery(p); failed", zap.Error(err))
+//		ResponseError(c, CodeInvalidParam)
+//		return
+//	}
+//
+//	data, err := logic.GetCommunityPostList2(p)
+//	if err != nil {
+//		zap.L().Error("logic.GetPostList() failed", zap.Error(err))
+//		ResponseError(c, CodeServerBusy)
+//		return
+//	}
+//
+//	ResponseSuccess(c, data)
+//}

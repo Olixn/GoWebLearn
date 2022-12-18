@@ -2,6 +2,7 @@ package controller
 
 import (
 	"errors"
+	"strconv"
 
 	"github.com/Olixn/GoWebLearn/dao/mysql"
 
@@ -63,7 +64,7 @@ func LoginHandler(c *gin.Context) {
 		}
 	}
 
-	if token, err := logic.Login(p); err != nil {
+	if user, err := logic.Login(p); err != nil {
 		zap.L().Error("logic.login failed.", zap.String("username", p.Username), zap.Error(err))
 		if errors.Is(err, mysql.ErrorUserNotExist) {
 			ResponseError(c, CodeUserNotExist)
@@ -75,6 +76,10 @@ func LoginHandler(c *gin.Context) {
 		ResponseError(c, CodeServerBusy)
 		return
 	} else {
-		ResponseSuccess(c, map[string]interface{}{"token": token})
+		ResponseSuccess(c, gin.H{
+			"user_id":   strconv.FormatInt(user.UserID, 10), // id值大于1<<53-1 int64 1<<63-1
+			"user_name": user.Username,
+			"token":     user.Token,
+		})
 	}
 }

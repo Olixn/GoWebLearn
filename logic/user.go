@@ -26,18 +26,22 @@ func SignUp(p *models.ParamSignUp) (err error) {
 	return mysql.InsertUser(u)
 }
 
-func Login(p *models.ParamLogin) (token string, err error) {
-	user := &models.User{
+func Login(p *models.ParamLogin) (user *models.User, err error) {
+	user = &models.User{
 		Username: p.Username,
 		Password: p.Password,
 	}
 
 	// 传的是指针，所以在mysql包查询成功并赋值，logic包中的user也变了
 	if err = mysql.Login(user); err != nil {
-		return "", err
+		return nil, err
 	}
 
 	// 生成JWT
-	token, err = jwt.GenToken(user.UserID, user.Username)
+	token, err := jwt.GenToken(user.UserID, user.Username)
+	if err != nil {
+		return
+	}
+	user.Token = token
 	return
 }
